@@ -1,10 +1,5 @@
-x- 👋 Hi, I’m @fabielimartins
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola meu nome e @fabielimartins
+- 👀 meu email de contato e fabieli.ribero@escola.pr.gov.br
+- 🌱 eu estou interessado em aprender a progamar novas linguagens.
+- 💞️ eu estou interessado recentemente a linguagem da javasscript e scratch
 
-<!---
-fabielimartins/fabielimartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
